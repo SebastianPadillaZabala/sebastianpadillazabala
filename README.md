@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
