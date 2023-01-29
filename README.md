@@ -5,4 +5,10 @@
  </h3> 
 </div>
 
+---
 
+### 🗿 About me :
+
+- 💬 Ask me about **PHP, Laravel, NodeJS, HTML, CSS**
+- 🌱 Im currently learning **.NET, IA, Python and Flutter**
+- 🌐 IG: sebastian.padilla.z
