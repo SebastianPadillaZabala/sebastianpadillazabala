@@ -13,3 +13,13 @@
 - 🌱 Im currently learning **.NET, IA, Python and Flutter**
 - 📩 Email: **padillasebastian140@gmail.com**
 - 🌐 Ig: sebastian.padilla.z
+
+<div align="left">
+ <h3> 🛠️ Languages and Tools:</h3>
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
+  <img src="" width="40" height="40"/>&nbsp;
