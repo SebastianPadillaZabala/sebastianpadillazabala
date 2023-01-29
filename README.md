@@ -11,4 +11,4 @@
 
 - 💬 Ask me about **PHP, Laravel, NodeJS, HTML, CSS**
 - 🌱 Im currently learning **.NET, IA, Python and Flutter**
-- 🌐 IG: sebastian.padilla.z
+- 🌐 EMAIL: padillasebastian140@gmail.com IG: sebastian.padilla.z
