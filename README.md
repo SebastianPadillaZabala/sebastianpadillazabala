@@ -9,8 +9,8 @@
 
 ### 🗿 About me :
 
-- 💬 Ask me about **PHP, Laravel, NodeJS, HTML, CSS**
-- 🌱 I'm currently learning **.NET, IA, Python and Flutter**
+- 💬 Ask me about **PHP, Laravel, NodeJS, HTML, CSS, Flutter**
+- 🌱 I'm currently learning **NestJs, IA, Python**
 - 📩 Email: **padillasebastian140@gmail.com**
 - 🌐 Ig: sebastian.padilla.z
 
